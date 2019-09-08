@@ -8,6 +8,6 @@ spring:
 server:
   port: 8085
 userinfo:
-  username: lxy
+  username: liuxiaoyu
   password: 123456
   
