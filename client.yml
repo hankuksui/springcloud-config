@@ -7,3 +7,7 @@ spring:
     name: springcloud-client
 server:
   port: 8084
+userifo:
+  username: lxy
+  password: 123456
+  
